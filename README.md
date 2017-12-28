@@ -3,9 +3,9 @@
 # Learn Python Programming
 
 ### Main Language
-- basics
-- oop
-- advanced
+- Basics
+- OOPS
+- Advanced
 
 ### Libraries
 - Data Science
