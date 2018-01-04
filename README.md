@@ -8,10 +8,15 @@
 - Advanced
 
 ### Libraries
+- Statistics
+- Data Analytics
+- Data Visualision
 - Data Science
+
 - Artificial Intelligence 
 - Machine Learning 
 - Deep Learning
+
 - Image Processing 
 
 ### DataSets
