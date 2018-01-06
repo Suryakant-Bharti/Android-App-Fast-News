@@ -8,6 +8,10 @@
 - Advanced
 
 ### Libraries
+
+- Tensorflow 
+- SciKit-Learn
+
 - Statistics
 - Data Analytics
 - Data Visualision
