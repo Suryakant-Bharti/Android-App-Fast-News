@@ -12,11 +12,12 @@
 - Tensorflow 
 - SciKit-Learn
 
+### Technologies
+
 - Statistics
 - Data Analytics
 - Data Visualision
 - Data Science
-
 - Artificial Intelligence 
 - Machine Learning 
 - Deep Learning
