@@ -29,4 +29,4 @@
 
 ## Information Collection
 
-### Python ML Mind Map
+- ### [Python ML Mind Map](_moreReadMe/python_ml_mind_map)
