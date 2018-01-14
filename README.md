@@ -1,4 +1,5 @@
-![quote steve jobs](https://user-images.githubusercontent.com/2780145/34919106-9eeb21d8-f984-11e7-8eea-105f2a6b8318.png)
+![python logo banner](https://user-images.githubusercontent.com/2780145/34919838-1718c52a-f98f-11e7-864f-861ae749b1aa.png)
+![quote steve jobs](https://user-images.githubusercontent.com/2780145/34920375-c5d08992-f997-11e7-8ffb-3e35417f707d.png)
 
 # Learn Python Programming
 
