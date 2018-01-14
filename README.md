@@ -3,17 +3,17 @@
 
 # Learn Python Programming
 
-### Main Language
+## Main Language
 - Basics
 - OOPS
 - Advanced
 
-### Libraries
+## Libraries
 
 - Tensorflow 
 - SciKit-Learn
 
-### Technologies
+## Technologies
 
 - Statistics
 - Data Analytics
@@ -24,9 +24,9 @@
 - Deep Learning
 - Image Processing 
 
-### DataSets
+## DataSets
 - Open Data Sites
 
 ## Information Collection
 
-### Python Machine Learnin Mind Map
+### Python ML Mind Map
