@@ -1,4 +1,4 @@
-![city banner](https://user-images.githubusercontent.com/2780145/34307155-ac661e5a-e76c-11e7-9ef4-8bef4743d71d.png)
+![quote steve jobs](https://user-images.githubusercontent.com/2780145/34919106-9eeb21d8-f984-11e7-8eea-105f2a6b8318.png)
 
 # Learn Python Programming
 
