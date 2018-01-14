@@ -27,3 +27,6 @@
 ### DataSets
 - Open Data Sites
 
+## Information Collection
+
+### Python Machine Learnin Mind Map
