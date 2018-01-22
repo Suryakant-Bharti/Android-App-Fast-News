@@ -24,7 +24,7 @@
 - Deep Learning
 - Image Processing 
 
-## DataSets
+## Data Sets
 - Open Data Sites
 
 ## Information Collection
