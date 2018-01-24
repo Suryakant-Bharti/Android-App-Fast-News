@@ -9,12 +9,10 @@
 - Advanced
 
 ## Libraries
-
 - Tensorflow 
 - SciKit-Learn
 
 ## Technologies
-
 - Statistics
 - Data Analytics
 - Data Visualision
@@ -28,5 +26,4 @@
 - Open Data Sites
 
 ## Information Collection
-
 - ### [Python ML Mind Map](_moreReadMe/python_ml_mind_map)
